@@ -1,7 +1,5 @@
 # javascript-async-await-practice
 
-# JavaScript Async/Await Practice
-
 This repository contains practice exercises focused on **async/await in JavaScript**, developed as part of an **Alura course**.
 
 The goal of this project is to reinforce the understanding of asynchronous JavaScript by working with real browser APIs and modern async patterns.
